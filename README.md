@@ -3,6 +3,6 @@
 
 
 <!-- <p><img align="top" width="100%" alt="Coding" src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif"></p> -->
-<p><img align="top" width="100%" alt="Coding" src="https://holopin.me/susaksham"></p>
+<p><img align="top" width="100%" alt="Coding" src=""></p>
 
 
