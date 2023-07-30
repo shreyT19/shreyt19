@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyt19&label=Profile%20views&color=0e75b6&style=flat" alt="shreyt19" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **TypeScript && Next JS**
 
-- 💬 Ask me about **Java, JavaScript, and Data Structure & Algorithms**
+- 💬 Ask me about **Java, JavaScript, React, and Data Structure & Algorithms**
 
 - 📫 How to reach me **contactshreyansh19@gmail.com**
 
