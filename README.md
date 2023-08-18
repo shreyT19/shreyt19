@@ -1,22 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Tripathy</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India. </h3>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyt19&label=Profile%20views&color=0e75b6&style=flat" alt="shreyt19" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyt19" alt="shreyt19" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shreyansht19" target="blank"><img src="https://img.shields.io/twitter/follow/shreyansht19?logo=twitter&style=for-the-badge" alt="shreyansht19" /></a> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=shreyt19&label=Profile views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=shreyt19&label=Profile%20views&color=0e75b6&style=flat)" alt="shreyt19" /> </p>
 
 - 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Java, JavaScript, and Data Structure & Algorithms**
-
-- 📫 How to reach me **contactshreyansh19@gmail.com**
+- 💬 Ask me about **Java, JavaScript, React, and Data Structure & Algorithms**
+- 📫 How to reach me **[contactshreyansh19@gmail.com](mailto:contactshreyansh19@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shreyansht19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyansht19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyt19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyt19" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreyansh-tripathy-109a11201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh-tripathy-109a11201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyt19&show_icons=true&locale=en&layout=compact" alt="shreyt19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyt19&show_icons=true&locale=en" alt="shreyt19" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyt19&show_icons=true&locale=en" alt="shreyt19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyt19&" alt="shreyt19" /></p>
