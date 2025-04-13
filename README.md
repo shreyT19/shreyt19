@@ -9,7 +9,8 @@
 - 💬 We can talk **React, UI/UX, onboarding flows, frontend architecture, or obsess over components**  
 - 🏋️ I *definitely* hit the gym regularly... in my mind. 😎  
 - 🔍 Keen to learn **Backend development**, **Design systems**, **AI tools** and their best usage  
-- 🌱 Open to new **opportunities**  
+- 🌱 Open to new **opportunities**
+- 📫 Email me: [contactshreyansh19@gmail.com](mailto:contactshreyansh19@gmail.com)
 
 ---
 
@@ -18,7 +19,7 @@
   <a href="https://twitter.com/shreyansht19"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shreyansh-tripathy-109a11201"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>  
-📫 Email me: [contactshreyansh19@gmail.com](mailto:contactshreyansh19@gmail.com)
+
 
 ---
 
