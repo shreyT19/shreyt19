@@ -1,39 +1,28 @@
-<h1 align="center">Hi 👋, I'm Shreyansh</h1>
-<h3 align="center">Developer | Tech Explorer | Problem Solver</h3>
+# Hey there 👋, I'm Shreyansh
+### Crafting clean, thoughtful interfaces & products from India 🇮🇳
 
 ---
 
-### 🚀 About Me
-- 👨‍💻 I love turning ideas into real-world applications.
-- 💬 We can discuss React, UI/UX, improving user onboarding, frontend, and components in general.
-- 📫 Reach me at: [contactshreyansh19@gmail.com](mailto:contactshreyansh19@gmail.com).
-- 🏋️ I totally love lifting or going jimm... at least in theory. 😅
+### 🚀 About Me  
+- 🛠️ Currently working on analyzing **Linear's filter system** — breaking it down to understand input patterns, decision trees, and building a reference-worthy demo version  
+- 🔧 Recently worked on **GitFlow** — an AI-assisted tool to write better commit messages, explore repo-based QnAs, and even analyze your meeting MP3s  
+- 💬 We can talk **React, UI/UX, onboarding flows, frontend architecture, or obsess over components**  
+- 🏋️ I *definitely* hit the gym regularly... in my mind. 😎  
+- 🔍 Keen to learn **Backend development**, **Design systems**, **AI tools** and their best usage  
+- 🌱 Open to new **opportunities**  
 
 ---
 
-### 🛠️ Recently Worked On
-**GitFlow** – An AI-powered dev tool that helps with:
-- 🔍 Descriptive commit generation using AI  
-- 📁 Repo-based QnAs for quicker onboarding  
-- 🎙️ Meeting MP3 file analyzers to auto-summarize discussions  
-
----
-
-### 🔍 Currently Exploring
-Working on analyzing **Linear's filter system**:
-- 🧠 Studying how it takes inputs and makes decisions  
-- 🛠️ Identifying improvements and enhancements  
-- 📦 Building a demo-able version for reference and learning  
-
----
-
-### 🌐 Connect with me
+### 🌐 Connect with Me  
 <p>
   <a href="https://twitter.com/shreyansht19"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/shreyansh-tripathy-109a11201"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+</p>  
+📫 Email me: [contactshreyansh19@gmail.com](mailto:contactshreyansh19@gmail.com)
 
+---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyt19&label=Profile%20views&color=0e75b6&style=flat" alt="shreyt19" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyt19&show_icons=true&locale=en&layout=compact" alt="shreyt19" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyt19&show_icons=true&locale=en" alt="shreyt19" /></p>
